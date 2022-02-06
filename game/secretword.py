@@ -11,17 +11,24 @@ class Secretword():
         
         list = [
             "water",
+            "fire",
+            "wind",
+            "king",
+            "queen",
             "apple",
             "star",
             "table",
+            "Chair",
             "nun",
             "burn",
             "sustain",
             "shelf",
             "reveal",
+            "hide",
             "cheap",
             "bold",
             "promote",
+            "demote",
             "matrix",
             "production"
         ]
